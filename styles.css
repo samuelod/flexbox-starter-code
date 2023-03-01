@@ -9,7 +9,11 @@ div {
 }
 
 .flex-container {
+  height: 1400px;
   display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap-reverse;
 }
 
 
